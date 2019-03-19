@@ -1,7 +1,7 @@
 package com.itheima.git;
 
 /**
- * @author km
+ * @author km--lh
  * Created by Enzo Cotter on 2019/3/19.
  */
 public class GitTest {
