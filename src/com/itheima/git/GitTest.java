@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("world");
         System.out.println("km");
         System.out.println("哈哈哈0");
+        System.out.println("空名");
     }
 }
